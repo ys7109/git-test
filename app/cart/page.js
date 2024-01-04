@@ -15,8 +15,7 @@ function CartItem(){
     return(
         <div className="item">
             <p>상품명{set}</p>
-            <p>P</p>
-            <p>개</p>
+            
         </div>
     )
 }
