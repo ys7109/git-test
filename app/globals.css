@@ -60,7 +60,15 @@ body{
   padding: 10px;
   display: flex;
   justify-content: space-around;
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid grey; 
   line-height: 0px;
   color: white;
+}
+
+.banner{
+  color: white;
+}
+
+.btn_reset{
+  margin-left: 10px;
 }
